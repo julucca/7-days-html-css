@@ -1,0 +1,23 @@
+@import url("./assets/css/navbar.css");
+
+:root {
+    --white: #FFFFFF;
+    --text-color: #667085;
+    --highlights-color: #8E2424;
+
+    --font-main: 'Inter', sans-serif;
+}
+
+body {
+    font-family: var(--font-main);
+    font-size: 1rem;
+
+    box-sizing: border-box;
+    height: 100vh;
+    width: 100%;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}

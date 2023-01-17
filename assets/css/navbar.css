@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-block: 1.65625rem;
+
+    color: var(--text-color);
+    font-weight: 500;    
+    line-height: 1.5rem;
+}
+
+.navbar__menu {
+    display: flex;
+    gap: 2rem;
+    flex-basis: 38.9375rem;
+}
+
+.navbar__buttons {
+    display: flex;
+    gap: .75rem;
+}
+
+.navbar__buttons-link {
+    padding: .625rem 1.125rem;
+}
+
+.navbar__buttons-link:last-child {
+    background-color: var(--highlights-color);
+    color: var(--white);
+    border-radius: .5rem;
+}
