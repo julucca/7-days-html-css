@@ -1,4 +1,4 @@
-.navbar {
+.nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -9,22 +9,22 @@
     line-height: 1.5rem;
 }
 
-.navbar__menu {
+.nav__wrapper {
     display: flex;
     gap: 2rem;
     flex-basis: 38.9375rem;
 }
 
-.navbar__buttons {
+.nav__buttons {
     display: flex;
     gap: .75rem;
 }
 
-.navbar__buttons-link {
+.nav__buttons__item {
     padding: .625rem 1.125rem;
 }
 
-.navbar__buttons-link:last-child {
+.nav__buttons__item:last-child {
     background-color: var(--highlights-color);
     color: var(--white);
     border-radius: .5rem;
