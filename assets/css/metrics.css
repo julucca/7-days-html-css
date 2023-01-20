@@ -21,7 +21,7 @@
     line-height: 1.75rem;
 }
 
-.metrics__copy {
+.metrics__text {
     color: var(--text-color);
-    max-width: 280px;
+    max-width: 17.5rem;
 }

@@ -1,12 +1,14 @@
 @import url("./assets/css/header.css");
 @import url("./assets/css/about.css");
 @import url("./assets/css/metrics.css");
+@import url("./assets/css/vacancy.css");
 
 :root {
     --white: #FFFFFF;
     --text-color: #667085;
     --highlights-color: #8E2424;
     --title-color: #101828;
+    --background-color: rgba(142, 36, 36, 0.05);
 
     --font-main: 'Inter', sans-serif;
 }
@@ -29,4 +31,7 @@ a {
 .container {
     padding-block: 6rem;
     margin-inline: auto;
+
+    font-weight: 600;
+    text-align: center;
 }

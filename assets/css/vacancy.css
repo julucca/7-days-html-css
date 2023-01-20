@@ -1,0 +1,6 @@
+@import url("./typography.css");
+
+.vacancy__image {
+    padding-top: 4rem;
+    width: 85%;
+}
