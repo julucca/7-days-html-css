@@ -1,9 +1,7 @@
 .about {
     font-weight: 600;
     text-align: center;
-    
-    padding-block: 6rem;
-    margin-inline: auto;
+
     max-width: 55%;
 }
 
