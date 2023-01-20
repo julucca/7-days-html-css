@@ -1,11 +1,11 @@
 @import url("./typography.css");
 
-.vacancy__image {
+.vacancies__image {
     padding-block: 4rem;
     width: 85%;
 }
 
-.vacancy__category {
+.vacancies__category {
     text-align: left;
     margin-inline: auto;
     max-width: 54%;
