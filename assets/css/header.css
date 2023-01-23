@@ -1,3 +1,5 @@
+@import url("./buttons.css");
+
 .nav {
     display: flex;
     justify-content: space-around;
@@ -18,14 +20,4 @@
 .nav__buttons {
     display: flex;
     gap: .75rem;
-}
-
-.nav__buttons__item {
-    padding: .625rem 1.125rem;
-}
-
-.nav__buttons__item:last-child {
-    background-color: var(--highlights-color);
-    color: var(--white);
-    border-radius: .5rem;
 }

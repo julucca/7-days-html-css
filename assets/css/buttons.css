@@ -1,0 +1,12 @@
+.button {
+    background-color: var(--highlights-color);
+    color: var(--white);
+    font-weight: 500;
+
+    border-radius: .5rem;
+    padding: .625rem 1.125rem;
+}
+
+.button--secondary {
+    padding: .625rem 1.125rem;
+}
