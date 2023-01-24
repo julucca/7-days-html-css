@@ -14,7 +14,7 @@
 
 <div align="center">
 	<img width=200px src="./assets/img/git-view-mobile.png">
-	<img width=4450px src="./assets/img/git-view-tablet.png">
+	<img width=450px src="./assets/img/git-view-tablet.png">
     <img width=650px src="./assets/img/git-view-desktop.png">
 </div><br>
 
