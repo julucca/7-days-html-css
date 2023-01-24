@@ -3,3 +3,9 @@
 .about {
     max-width: 55%;
 }
+
+@media screen and (max-width: 765px) {
+    .about {
+        max-width: 85%;
+    }
+}

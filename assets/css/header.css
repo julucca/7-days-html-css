@@ -14,10 +14,34 @@
 .nav__wrapper {
     display: flex;
     gap: 2rem;
-    flex-basis: 38.9375rem;
+    flex-basis: 43vw;
+    min-width: 22.5625rem;
 }
 
 .nav__buttons {
     display: flex;
     gap: .75rem;
+}
+
+.nav__hamburger {
+    display: none;
+}
+
+@media screen and (max-width: 765px) {
+    .nav {
+        justify-content: space-between;
+        margin-inline: 1.5rem;
+    }
+
+    .nav__wrapper {
+        display: none;
+    }
+
+    .nav__buttons {
+        display: none;
+    }
+
+    .nav__hamburger {
+        display: block;
+    }
 }

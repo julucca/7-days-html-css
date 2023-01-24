@@ -25,3 +25,19 @@
     color: var(--text-color);
     max-width: 17.5rem;
 }
+
+@media screen and (max-width: 765px) {
+    .metrics__title {
+        font-size: 3.25rem;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .metrics {
+        flex-wrap: wrap;
+        justify-content: center;
+        max-width: 93%;
+        padding-bottom: 3rem;
+        text-align: center;
+    }
+}
