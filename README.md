@@ -5,7 +5,7 @@
 <h2>:file_folder: Detalhes do projeto</h2> 
 
 <div align="center">
-	<img width=300px src="./assets/img/logotipo-optimustech.svg">
+	<img width=300px src="./assets/img/lotipo-optimustech-white.svg">
 </div><br>
 
 <p>A aplicação foi desenvolvida com HTML e CSS puro.</p>
@@ -13,9 +13,9 @@
 <p>Algumas adaptações foram feitas no projeto original com a finalidade de tornar o projeto mais responsivo.</p>
 
 <div align="center">
-	<img width=500px src="./assets/img/git-view-mobile.png">
-	<img width=500px src="./assets/img/git-view-tablet.png">
-  <img width=300px src="./assets/img/git-view-desktop.png">
+	<img width=200px src="./assets/img/git-view-mobile.png">
+	<img width=4450px src="./assets/img/git-view-tablet.png">
+    <img width=650px src="./assets/img/git-view-desktop.png">
 </div><br>
 
 <h2>:computer: Tecnologias utilizadas</h2>
